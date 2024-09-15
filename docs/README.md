@@ -2,7 +2,9 @@
 
 ![](https://img.shields.io/badge/version-v2.0.0-green.svg) ![](https://img.shields.io/badge/author-Hollis-yellow.svg) ![](https://img.shields.io/badge/license-GPL-blue.svg)
 
+成神之路系列丛书的第一本《深入理解Java核心技术（基础篇）》已经正式出版了，这本书囊括了<Java工程师成神之路>中基础篇的几乎全部内容，欢迎大家购买品鉴。
 
+![](docs/contact/book.jpeg)
 
 | 主要版本 | 更新时间       | 备注             |
 | ---- | ---------- | -------------- |
@@ -13,13 +15,6 @@
 | v1.0 | 2015-08-01 | 首次发布           |
 
 
-Java成神之路全套面试题——围绕成神之路，500多道题，60多万字>>>
-
-![Java八股](http://www.hollischuang.com/wp-content/uploads/2023/10/640.png)
-
-
-扫码下单后，按照短信提示操作即可。
-
 目前正在更新中... 
 
 欢迎大家参与共建~
@@ -28,21 +23,13 @@ Java成神之路全套面试题——围绕成神之路，500多道题，60多�
 
 欢迎关注作者的公众号，可以直接后台留言。
 
-![](docs/contact/wechat-hollis.jpg)
+![](contact/wechat-hollis.jpg)
 
 *公众号后台回复："成神导图"，即可获取《Java工程师成神之路最新版思维导图》* 
 
-
-### 在线阅读地址
-
-GitHub Pages 完整阅读：[进入](https://hollischuang.github.io/toBeTopJavaer/)
-
-Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) (国内访问速度较快)
-
-
 ### 关于作者
 
-Hollis，阿里巴巴技术专家，51CTO专栏作家，CSDN博客专家，掘金优秀作者，《深入理解Java核心技术》作者，《程序员的三门课》联合作者，《Java工程师成神之路》系列文章作者；热衷于分享计算机编程相关技术，博文全网阅读量上千万。
+Hollis，阿里巴巴技术专家，51CTO专栏作家，CSDN博客专家，掘金优秀作者，《程序员的三门课》联合作者，《Java工程师成神之路》系列文章作者；热衷于分享计算机编程相关技术，博文全网阅读量上千万。
 
 
 ### 开源协议
@@ -61,3 +48,13 @@ Hollis，阿里巴巴技术专家，51CTO专栏作家，CSDN博客专家，掘�
 请直接在[GitHub](https://github.com/hollischuang/toBeTopJavaer)上以issue或者PR的形式提出
 
 如果本项目中的内容侵犯了您的任何权益，欢迎通过邮箱(hollischuang@gmail)与我联系
+
+### 在线阅读地址
+
+GitHub Pages 完整阅读：[进入](https://hollischuang.github.io/toBeTopJavaer/)
+
+Gitee Pages 完整阅读：[进入](http://hollischuang.gitee.io/tobetopjavaer) (国内访问速度较快)
+
+
+
+### <a href="#/menu?id=目录">开始阅读</a></p></div><div class="mask"></div></section>
